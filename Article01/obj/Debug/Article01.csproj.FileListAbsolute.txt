@@ -1,0 +1,4 @@
+D:\NguyenThanhAn\Example01_NguyenThanhAn\Article01\bin\Debug\Article01.exe.config
+D:\NguyenThanhAn\Example01_NguyenThanhAn\Article01\obj\Debug\Article01.csprojResolveAssemblyReference.cache
+D:\NguyenThanhAn\Example01_NguyenThanhAn\Article01\obj\Debug\Article01.Properties.Resources.resources
+D:\NguyenThanhAn\Example01_NguyenThanhAn\Article01\obj\Debug\Article01.csproj.GenerateResource.Cache

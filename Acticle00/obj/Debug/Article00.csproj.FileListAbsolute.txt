@@ -1,0 +1,7 @@
+D:\NguyenThanhAn\Example01_NguyenThanhAn\Acticle00\bin\Debug\Acticle00.exe.config
+D:\NguyenThanhAn\Example01_NguyenThanhAn\Acticle00\bin\Debug\Acticle00.exe
+D:\NguyenThanhAn\Example01_NguyenThanhAn\Acticle00\bin\Debug\Acticle00.pdb
+D:\NguyenThanhAn\Example01_NguyenThanhAn\Acticle00\obj\Debug\Acticle00.Properties.Resources.resources
+D:\NguyenThanhAn\Example01_NguyenThanhAn\Acticle00\obj\Debug\Article00.csproj.GenerateResource.Cache
+D:\NguyenThanhAn\Example01_NguyenThanhAn\Acticle00\obj\Debug\Acticle00.exe
+D:\NguyenThanhAn\Example01_NguyenThanhAn\Acticle00\obj\Debug\Acticle00.pdb
